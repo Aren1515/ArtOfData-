@@ -2,7 +2,7 @@
 layout: post
 title: Aren - Digimon Lab 1
 subtitle: Art of Data Digimon Dataset Project
-thumbnail-img: /Images for Digimon Blog/Digimon_Digital_Monsters_Thumbnail.png 
+thumbnail-img: /images_for_digimon_blog/Digimon_Digital_Monsters_Thumbnail.png 
 author: Aren Haroutunian
 ---
 
