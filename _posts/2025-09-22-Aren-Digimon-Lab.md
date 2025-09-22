@@ -2,8 +2,14 @@
 layout: post
 title: Aren - Digimon Lab 1
 subtitle: Art of Data Digimon Dataset Project
+cover-img: /aren/Art of Data/Images for Digimon Blog/Digimon_Digital_Monsters_Thumbnail.png
 author: Aren Haroutunian
 ---
+
+
+
+
+
 
 ### Code to answer the 3 prompts
 ```python
