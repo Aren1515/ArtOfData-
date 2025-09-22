@@ -2,6 +2,7 @@
 layout: post
 title: Aren - Digimon Lab 1
 subtitle: Art of Data Digimon Dataset Project
+author: Aren Haroutunian
 ---
 
 ### Code to answer the 3 prompts
