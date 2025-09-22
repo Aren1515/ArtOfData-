@@ -6,8 +6,9 @@ author: Aren Haroutunian
 ---
 
 In my first Art of Data lab I had to answer various prompts by reading though a Digimon database and answering the following questions: 
+    
     - What is the average speed (Spd) of all Digimon?
-    - Write a function that can count the number of Digimon with a specific attribute. For example, count_digimon("Type", "Vaccine") would return 70.
+    - Write a function that can count the number of Digimon with a specific attribute. For example count_digimon("Type", "Vaccine") would return 70.
     - The Digimon on your team are restricted by the total amount of Memory that they need. If your team only has 15 Memory, name a team of up to 3 Digimon that has at least 300 attack (Atk) in total.
 
 I initially breezed through the first assignment, as it was very similar to one of the problems from a reading files practice done earlier. However, having only recently learned to code in python, I struggled more with the following two prompts. With many hours of researching python (and overhearing some suggestions from peers in class as to how they managed some challenges), I was able to complete the assignment. Although I did research for a long time, it was not all fruitful. I ended up spending more time than I should have down some empty rabbit holes that led me nowhere. Overall, this lab enabled me to get a good amount of practice with Python and learn how to read big csv files efficiently. 
