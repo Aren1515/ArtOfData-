@@ -4,9 +4,8 @@ title: Aren - Digimon Lab 1
 subtitle: Art of Data Digimon Dataset Project
 ---
 
-```python
 ### Code to answer the 3 prompts
-
+```python
 import csv 
 
 # This fuction counts how many Digimon in the dataset match a specific column and value
